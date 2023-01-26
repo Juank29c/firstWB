@@ -1,0 +1,41 @@
+body{
+    background: grey;
+    margin:0;
+}
+
+header{
+    text-align: center;
+    background-color: white;
+}
+
+header h1{
+    margin:0;
+}
+
+.contenedor1 img{
+    width: 100%;
+    height: 200px;
+}
+
+.contenedor1{
+    background: white;
+}
+.contenedor{
+    width:600px;
+    margin:auto;
+}
+
+.post{
+    padding:5px;
+}
+.subt{
+    margin-top: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subt span{
+    padding-top: 27px;
+}
